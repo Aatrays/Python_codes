@@ -1,4 +1,5 @@
 import random
+# custom modules
 from hangman_art import stages, logo
 from hangman_word import word_list
 
